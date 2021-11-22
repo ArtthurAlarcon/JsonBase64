@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JsonBase64.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Página de registro!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+   
+        <Label Text="Nombre" Margin="10, 15, 10, 0"/>
+        <Entry Text="{Binding Name}" Margin="10, 0, 10, 0"/>
+
+        <Label Text="Primer Apellido"  Margin="10, 0, 10, 0"/>
+        <Entry Text="{Binding Ap1}" Margin="10, 0, 10, 0"/>
+
+        <Label Text="Segundo Apellido" Margin="10, 0, 10, 0" />
+        <Entry Text="{Binding Ap2}" Margin="10, 0, 10, 0"/>
+
+        <Label Text="Usuario" Margin="10, 0, 10, 0"/>
+        <Entry Text="{Binding UserName}" Margin="10, 0, 10, 0"/>
+
+        <Label Text="Contraseña" Margin="10, 15, 10, 0"/>
+        <Entry Text="{Binding Password}" IsPassword="True" Margin="10, 0, 10, 0"/>
+
+
+        <Button Text="Iniciar Sesión" Command="{Binding RegisterCommand}"/>
+
+        <Label Text="{Binding JsonResult}"/>
+    </StackLayout>
+
+</ContentPage>

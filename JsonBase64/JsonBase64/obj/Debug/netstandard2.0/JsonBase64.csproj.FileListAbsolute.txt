@@ -1,0 +1,17 @@
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\bin\Debug\netstandard2.0\JsonBase64.deps.json
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\bin\Debug\netstandard2.0\JsonBase64.dll
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\bin\Debug\netstandard2.0\ref\JsonBase64.dll
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\bin\Debug\netstandard2.0\JsonBase64.pdb
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.csproj.AssemblyReference.cache
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.AssemblyInfoInputs.cache
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.AssemblyInfo.cs
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.csproj.CoreCompileInputs.cache
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.dll
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\ref\JsonBase64.dll
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.pdb
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.AppResources.APIResources.resources
+C:\Users\arttu\source\repos\2U\JsonBase64\JsonBase64\JsonBase64\obj\Debug\netstandard2.0\JsonBase64.csproj.GenerateResource.cache
